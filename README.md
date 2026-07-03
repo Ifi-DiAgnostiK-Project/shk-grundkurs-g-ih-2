@@ -56,7 +56,7 @@ Fügetechnik - Werkstücke und Bauteile aus gleichen und unterschiedlichen Werks
 
 </div>
 <div class="flex-child">
-![Lötlampe](assets/images/loetlampe.jpg) <!-- style="height: 300px" -->
+![Brennerdüse eines Lötbrenners mit sichtbarer Flamme vor dunklem Hintergrund.](assets/images/loetlampe.jpg "Lötbrenner mit brennender Flamme. Bild von [kboyd via Pixabay](https://pixabay.com/photos/blowtorch-flame-hot-tool-soldering-596294/), Pixabay Content License, veröffentlicht am 18. Januar 2015.") <!-- style="height: 300px" -->
 </div>
 <div class="flex-child">
 ![Rohrinstallation](assets/images/rohrinstallation.jpg) <!-- style="height: 300px" -->
@@ -275,6 +275,4 @@ Arbeitsvorbereitung<!--style="color:blue; font-weight: bolder;"-->
 
 ## Super gemacht 👌
 
-![Jubel](assets/images/colorfull_jumping.jpg)<!-- style="width: 700px" -->
-
-_Quelle: Pixabay, geralt_
+![Bunte Silhouetten mehrerer springender Menschen vor weißem Hintergrund als Symbol für Freude, Spaß und Lebensfreude.](assets/images/colorfull_jumping.jpg "Farbige Silhouetten springender Menschen als Ausdruck von Freude und Spaß. Bild von [geralt via Pixabay](https://pixabay.com/de/illustrations/freude-springen-luftsprung-spa%C3%9F-3940425/), Pixabay Content License, veröffentlicht am 19. Januar 2019.")
